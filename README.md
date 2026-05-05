@@ -1,6 +1,4 @@
----
-
-## Plano de Testes
+# Plano de Testes
 
 ### Soma
 
